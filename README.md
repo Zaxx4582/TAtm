@@ -56,3 +56,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
     return 1;
 }
 
+# Credits
+- SA-MP Team - SA-MP include
+- samp-incogito - Streamer Plugin
+- Me - TAtm include
