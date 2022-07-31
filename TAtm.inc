@@ -16,7 +16,7 @@
     ShowATMProfile(ATM:atmID);
     
     CallBack:
-    public OnPlayerOnATM(playerid)
+    public OnPlayerOnATM(playerid);
     
     Tips:
     If you are using this include to filterscript make sure to
