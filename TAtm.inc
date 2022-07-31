@@ -2,7 +2,7 @@
     
     TAtm - Dynamic ATM framework.
     
-    [Scripter]: Tiyo#7124
+    [Scripter]: Tiyo#7124 & Zaxx
     [Script Date]: July 1, 2022
     
     ATM Functions:
